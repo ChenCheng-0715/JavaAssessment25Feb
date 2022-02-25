@@ -7,7 +7,6 @@ import com.generation.service.StudentService;
 import com.generation.utils.PrinterHelper;
 
 import java.text.ParseException;
-import java.util.InvalidPropertiesFormatException;
 import java.util.Scanner;
 
 public class Main {
