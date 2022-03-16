@@ -1,4 +1,29 @@
-# JavaAssessment25Feb
+# JavaAssessment
+
+Welcome to the end of course assessment for the Java Programming Fundamentals module!
+ 
+In this session, you will complete the StudentGen project.
+ 
+By the end of this session, you will be able to:
+Write the methods that complete the program.
+Test the program to verify if it works properly.
+Prepare the program to handle wrong data format insertion.
+ 
+*Note:
+Assume that there is no duplicate courses enrolled per student
+
+Part 1: Understanding the StudentGen project
+Understand the project structure:
+Packages
+Classes
+Functionality
+
+Part 2: Implementing the Student and StudentService features
+
+Part 3: Handling exceptions
+Register a new user providing a wrong date format.
+Modify the createStudentMenu so it handles correctly the exception when a wrong date format is inserted by the user.
+Catch the exception and show a proper message to the user.
 
 Reflection Questions:
 
